@@ -32,6 +32,7 @@ class NewInvoice extends StatelessWidget {
           priceController.clear();
         }
       },
+
       builder: (context, state) {
         dateController.text =
             intl.DateFormat.yMMMd().format(DateTime.now()).toString();
