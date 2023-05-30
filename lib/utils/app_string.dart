@@ -1,0 +1,40 @@
+class AppString {
+  static const invoiceSaver = 'Invoices Saver';
+  static const savingYourSignificantInvoices =
+      'Save your significant invoices.';
+  static const invoiceSaverLite = 'Invoice Saver Lite';
+  static const newInvoice = 'New Invoice';
+  static const searchInvoice = 'Search Invoice';
+  static const searchItems = 'Search Items';
+  static const customersAndSupplies = 'Customers And Supplies';
+  static const items = 'Items';
+  static const transactions = 'Transactions';
+  static const languages = 'Languages';
+  static const arabic = 'عربي';
+  static const english = 'English';
+  static const themes = 'Themes';
+  static const light = 'Light';
+  static const dark = 'Dark';
+  static const merchantName = 'Merchant Name';
+  static const name = 'Name';
+  static const all = 'All';
+  static const customer = 'Customer';
+  static const supplier = 'Supplier';
+  static const date = 'Date';
+  static const toDate = 'To Date';
+  static const fromDate = 'From Date';
+  static const QTY = 'QTY';
+  static const price = 'Price';
+  static const type = 'Type';
+  static const total = 'Total';
+  static const id = 'ID';
+  static const add = 'Add';
+  static const search = 'Search';
+  static const settings = 'Settings';
+  static const merchantNameMustNotBeEmpty = 'Merchant Name must not be empty';
+  static const itemsMustNotBeEmpty = 'Item must not be empty';
+  static const dateMustBeChosen = 'Date must be choosen';
+  static const QTYMustNotBeEmpty = 'QTY must not be empty';
+  static const priceMustNotBeEmpty = 'Price must not be empty';
+  static const printPDF = 'Print PDF';
+}
